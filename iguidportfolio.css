@@ -1,0 +1,78 @@
+body {
+    background-color: darkgreen;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav {
+    background-color: darkolivegreen;
+    padding: 10px 0;
+    box-shadow: 0 3px 10px greenyellow;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    font-size: 1.1rem;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: chartreuse;
+}
+
+hr {
+    border-radius: 10px;
+
+}
+
+section {
+    
+    border-radius: 12px;
+    background-color: darkolivegreen;
+    max-width: 700px;
+    padding-top: 45px;
+    padding-bottom: 25px;
+    padding-right: 65px;
+    padding-left: 75px;
+    margin-top: 70px;
+    margin-left: 250px;
+    border-style: groove;
+    border-color: greenyellow;
+    text-align: left;
+    
+}
+
+
+#contact {
+
+margin-right: 110px;
+margin-left: 250px;
+margin-right: 90px;
+padding-top: 10px;
+padding-left: 100px;
+padding-right: 40px;
+
+}
+
+#home img {
+    padding-top: 20px;
+    padding-bottom: 30px;
+    
+
+}
+
+
+
+
+
+ 
+
